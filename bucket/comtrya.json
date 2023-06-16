@@ -4,6 +4,6 @@
     "homepage": "https://www.comtrya.dev/",
     "license": "MIT",
     "url": "https://github.com/comtrya/comtrya/releases/download/v0.8.5/comtrya-x86_64-pc-windows-msvc.exe#/comtrya.exe",
-    "hash": "d2cfb3d3939d89a164b365f8ce264d900f7b138a190d4afdf09685030e698622",
+    "hash": "026c337d14203e90350882c7f120e66a1bd36ba11caa72614cec2905f524f08b",
     "bin": "comtrya.exe"
 }
